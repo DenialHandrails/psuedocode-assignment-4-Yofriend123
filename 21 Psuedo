@@ -5,7 +5,7 @@ Psuedo code for 21
 */
 
 THE GAME:
-21 is a card game that consists of a dealer and 1 or more players.
+21 is a card game that consists of a dealer and 1 or more players. A 52 card deck is used, jokers are excluded.
 RULES:
 The dealer gives one card faced up and one card faced down
 The player has the option to hit or stand
