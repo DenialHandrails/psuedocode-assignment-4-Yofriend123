@@ -12,10 +12,12 @@ The player has the option to hit or stand
 When a player hits, they are given 1 card and if their cards equal 21, they win if they were given 21 first. If their cards go above 21, they get busted/eliminated.
 If a player decides to stand, they keep their cards and then it's the next persons turn.
 Whoever gets 21 first wins or gets closest to 21 and doesn't go over 21 wins but if everyone's cards add up to the same number that's less than 21 and decides to stand, it's a push/tie.
-VALUE OF EACH CARD:
+VALUE OF EACH CARD: // Use enum to create a "Card"
 Aces : 1 or 11 
 Jacks, Queens, Kings, and 10 : 10
 Cards 2 through 9 : Same value
+// Use raw values
+
 
 for (each player in the game * 3 rounds);
 The players look at their cards
